@@ -142,6 +142,69 @@ HTML элемент это все от начального тега до кон
 
 Содержание находящаяся внутри &#60;body&#62; (в белой секции выше), будет отображаться в браузере.
 
+<h4>История</h4>
+
+С первых дней существования Всемирной паутины существовало множество версий HTML:
+
+<table>
+    <tr>
+        <th>Год</th>
+        <th>Версия</th>
+    </tr>
+    <tr>
+        <td>1989</td>
+        <td>Тим Бернерс-Ли изобрел www</td>
+    </tr>
+    <tr>
+        <td>1991</td>
+        <td>Тим Бернерс-Ли изобрел HTML</td>
+    </tr>
+    <tr>
+        <td>1993</td>
+        <td>Дэйв Раггетт составлен в формате HTML+</td>
+    </tr>
+    <tr>
+        <td>1995</td>
+        <td>HTML рабочая группа определила HTML 2.0</td>
+    </tr>
+    <tr>
+        <td>1997</td>
+        <td>W3C рекомендация: HTML 3.2</td>
+    </tr>
+    <tr>
+        <td>1999</td>
+        <td>W3C рекомендация: HTML 4.01</td>
+    </tr>
+    <tr>
+        <td>2000</td>
+        <td>W3C рекомендация: XHTML 1.0</td>
+    </tr>
+    <tr>
+        <td>2008</td>
+        <td>WHATWG HTML5 первый публичный проект</td>
+    </tr>
+    <tr>
+        <td>2012</td>
+        <td><a href="https://html.spec.whatwg.org/multipage/">WHATWG HTML5 Существующий стандарт</a></td>
+    </tr>
+    <tr>
+        <td>2014</td>
+        <td><a href="http://www.sw3.org/TR/html5/">W3C Рекомендация: HTML5</a></td>
+    </tr>
+    <tr>
+        <td>2016</td>
+        <td>W3C Рекомендация Кандидата: HTML 5.1</td>
+    </tr>
+    <tr>
+        <td>2017</td>
+        <td><a href="http://www.sw3.org/TR/html51/">W3C Рекомендация: HTML5.1 2nd Edition</a></td>
+    </tr>
+    <tr>
+        <td>2017</td>
+        <td><a href="http://www.sw3.org/TR/html52/">W3C Рекомендация: HTML5.2</a></td>
+    </tr>
+</table>
+
 <h3 id="подраздел-1.2">some</h3>
     <p>. . .</p>
 
