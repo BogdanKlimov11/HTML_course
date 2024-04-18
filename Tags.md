@@ -1,7 +1,5 @@
 <h1 id="top">Список тегов HTML</h1>
 
-<img src="https://github.com/BogdanKlimov11/HTML_course/assets/136115919/3e9a9a83-7cd0-43c8-a930-f7e873bf628f" alt="HTML logo" title="HTML" width="100%" height="auto">
-
 ---
 
 <!-- Оглавление -->
