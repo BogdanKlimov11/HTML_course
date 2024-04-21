@@ -1061,7 +1061,12 @@ HTML располагается выше.
         <th>Описание</th>
     </tr>
     <tr>
-        <td>something</td>
+        <td><code>hidden</code></td>
+        <td>Глобальный атрибут</td>
+        <td>Предотвращает генерирование данного элемента, в то время как сохраняет дочерние элементы, например, элементы script, active.</td>
+    </tr>
+    <tr>
+        <td><code>something</code></td>
         <td>something</td>
         <td>something</td>
     </tr>
