@@ -484,6 +484,90 @@ HTML располагается выше.
 
 ---
 
+<h2 id="B">B <a href="#top">↑top↑</a></h2>
+
+---
+
+<h2 id="C">C <a href="#top">↑top↑</a></h2>
+
+---
+
+<h2 id="D">D <a href="#top">↑top↑</a></h2>
+
+---
+
+<h2 id="E">E <a href="#top">↑top↑</a></h2>
+
+---
+
+<h2 id="F">F <a href="#top">↑top↑</a></h2>
+
+---
+
+<h2 id="H">H <a href="#top">↑top↑</a></h2>
+
+---
+
+<h2 id="I">I <a href="#top">↑top↑</a></h2>
+
+---
+
+<h2 id="K">K <a href="#top">↑top↑</a></h2>
+
+---
+
+<h2 id="L">L <a href="#top">↑top↑</a></h2>
+
+---
+
+<h2 id="M">M <a href="#top">↑top↑</a></h2>
+
+---
+
+<h2 id="N">N <a href="#top">↑top↑</a></h2>
+
+---
+
+<h2 id="O">O <a href="#top">↑top↑</a></h2>
+
+---
+
+<h2 id="P">P <a href="#top">↑top↑</a></h2>
+
+---
+
+<h2 id="Q">Q <a href="#top">↑top↑</a></h2>
+
+---
+
+<h2 id="R">R <a href="#top">↑top↑</a></h2>
+
+---
+
+<h2 id="S">S <a href="#top">↑top↑</a></h2>
+
+---
+
+<h2 id="T">T <a href="#top">↑top↑</a></h2>
+
+---
+
+<h2 id="U">U <a href="#top">↑top↑</a></h2>
+
+---
+
+<h2 id="V">V <a href="#top">↑top↑</a></h2>
+
+---
+
+<h2 id="W">W <a href="#top">↑top↑</a></h2>
+
+---
+
+<h2 id="X">X <a href="#top">↑top↑</a></h2>
+
+---
+
 <!-- Contacts -->
 <h2>📡 Контакты автора:</h2>
 <div id="badges" align="center">
