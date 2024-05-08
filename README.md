@@ -934,7 +934,7 @@ HTML располагается выше.
     </tr>
     <tr>
         <td>XHTML</td>
-        <td>&#60;param name="имя" value="значение" /&#62;</td>
+        <td><code>&#60;param name="имя" value="значение" /&#62;</code></td>
     </tr>
 </table>
 
