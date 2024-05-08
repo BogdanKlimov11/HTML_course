@@ -930,11 +930,11 @@ HTML располагается выше.
 <table>
     <tr>
         <td>HTML</td>
-        <td><code><param name="имя" value="значение"></code></td>
+        <td><code>&#60;param name="имя" value="значение"&#62;</code></td>
     </tr>
     <tr>
         <td>XHTML</td>
-        <td><param name="имя" value="значение" /></td>
+        <td>&#60;param name="имя" value="значение" /&#62;</td>
     </tr>
 </table>
 
